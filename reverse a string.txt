@@ -1,0 +1,5 @@
+reverse a string
+
+
+string = 'Python'
+print(string[::-1])
